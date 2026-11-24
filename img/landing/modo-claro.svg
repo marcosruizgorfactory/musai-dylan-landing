@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="20" height="20.0003" viewBox="0 0 20 20.0003" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 4">
+<g id="Ellipse 21">
+<ellipse cx="10" cy="10.0001" rx="10" ry="10.0001" fill="white"/>
+<mask id="stroke0_0_355" fill="white">
+<path d="M20 10.0001C20 15.5231 15.5228 20.0003 10 20.0003C4.47715 20.0003 0 15.5231 0 10.0001C0 4.47722 4.47715 0 10 0C15.5228 0 20 4.47722 20 10.0001Z"/>
+</mask>
+<ellipse cx="10" cy="10.0001" rx="10" ry="10.0001" stroke-width="2" stroke="#A8A8A8" mask="url(#stroke0_0_355)"/>
+</g>
+</g>
+</svg>
